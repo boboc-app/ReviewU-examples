@@ -1,0 +1,3 @@
+excludes: 
+  - build.gradle.kts
+  - gradlew*
